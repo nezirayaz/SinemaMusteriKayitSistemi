@@ -53,6 +53,7 @@ Uygulama çalıştığında, aşağıdaki seçeneklerle bir konsol menüsü gör
 Seçiminizi yaparak ilgili işlemleri gerçekleştirebilirsiniz.
 
 ## Proje Yapısı
+
 SinemaMusteriKayitSistemi/
 │
 ├── src/
