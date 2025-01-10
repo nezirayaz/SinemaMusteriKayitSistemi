@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Salon 1",
+        "filmler": [
+            {
+                "ad": "Inception",
+                "sure": 148,
+                "tur": "Bilim Kurgu"
+            },
+            {
+                "ad": "The Dark Knight",
+                "sure": 152,
+                "tur": "Aksiyon"
+            }
+        ]
+    },
+    {
+        "name": "Salon 2",
+        "filmler": [
+            {
+                "ad": "The Godfather",
+                "sure": 175,
+                "tur": "Dram"
+            }
+        ]
+    }
+]
