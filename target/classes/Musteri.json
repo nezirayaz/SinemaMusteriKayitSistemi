@@ -1,1 +1,14 @@
-{"id":1,"name":"ali"}
+[
+    {
+        "id": 1,
+        "name": "Ali Veli"
+    },
+    {
+        "id": 2,
+        "name": "Ayşe Yılmaz"
+    },
+    {
+        "id": 3,
+        "name": "Mehmet Demir"
+    }
+]
