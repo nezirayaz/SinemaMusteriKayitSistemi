@@ -1,1 +1,17 @@
-{"ad":"inception","sure":2,"tur":"animasyon"}
+[
+    {
+        "ad": "Inception",
+        "sure": 148,
+        "tur": "Bilim Kurgu"
+    },
+    {
+        "ad": "The Godfather",
+        "sure": 175,
+        "tur": "Dram"
+    },
+    {
+        "ad": "The Dark Knight",
+        "sure": 152,
+        "tur": "Aksiyon"
+    }
+]
